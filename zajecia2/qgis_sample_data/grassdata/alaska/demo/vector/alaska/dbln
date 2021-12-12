@@ -1,1 +1,3 @@
-1 alaska cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf
+version https://git-lfs.github.com/spec/v1
+oid sha256:2905bfe6309ab9cc73c82ba3e317865981992702422c1b761f76455b60d952ee
+size 55

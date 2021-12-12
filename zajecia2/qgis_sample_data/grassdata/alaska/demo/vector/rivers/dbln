@@ -1,1 +1,3 @@
-1 rivers cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf
+version https://git-lfs.github.com/spec/v1
+oid sha256:9467e4851e385851afc6d33311f8c3c9fa1fcc3e970225deed8b87f80dab7bd6
+size 55

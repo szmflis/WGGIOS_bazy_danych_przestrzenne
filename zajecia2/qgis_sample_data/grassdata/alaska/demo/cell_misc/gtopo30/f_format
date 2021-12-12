@@ -1,3 +1,3 @@
-type: double
-byte_order: xdr
-lzw_compression_bits: -1
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dc5a609677b69ca5672e6aadafb6d1214d781062ae3c2430385fa4814165456
+size 54

@@ -1,1 +1,3 @@
-1 airports cat $GISDBASE/$LOCATION_NAME/$MAPSET/dbf/ dbf
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ef7e0bf78c9b48e250070d5eb2dcc762c1af70ec4da290f51ab2566710509f2
+size 57
